@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>笨鸟码书 - Ruby on Rails 教程（原书第 6 版）</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="JuoGCANjlkkUWfCF7NMs8zW4Jx7DnNNquAPuQTKZp0DR95cLVnMIWKdJB4qLzP7ViXpMflBk5ZzpqDWy1j9PQw==" />
+    <meta name="description" content="Ruby on Rails 教程（原书第 6 版） - 通过 Rails 6 学习 Web 开发">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@flapybooks">
+<meta name="twitter:title" content="Ruby on Rails 教程（原书第 6 版）">
+<meta name="twitter:description" content="通过 Rails 6 学习 Web 开发">
+<meta name="twitter:image" content="https://flapybooks-public-1257356257.file.myqcloud.com/covers/railstutorial6th-banner@2x.jpg">
+<meta name="twitter:image:alt" content="Ruby on Rails 教程（原书第 6 版）">
+<meta property="og:title" content="Ruby on Rails 教程（原书第 6 版）">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://flapybooks.com/products/railstutorial6th">
+<meta property="og:image" content="https://flapybooks-public-1257356257.file.myqcloud.com/covers/railstutorial6th@2x.jpg">
+<meta property="og:description" content="通过 Rails 6 学习 Web 开发">
+<meta property="og:site_name" content="笨鸟码书">
+<meta property="og:price:amount" content="9.90">
+<meta property="og:price:currency" content="USD">
+    <link rel="stylesheet" media="all" href="https://flapybooks-public-1257356257.file.myqcloud.com/assets/application-d1ef233f7b8a8152d040aa8fdba28fbd17d295982b3ec21e0d8911d3cac6adcf.css" />
+    <script src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/application-5b560d74e40337c9ac7b94290b6bf913b177508c4e7e47deb87fe8ee2df1c6ed.js"></script>
+  </head>
+
+  <body class="product-page product-railstutorial6th-page">
+
+    <div class="header">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-light">
+          <a class="navbar-brand" href="/" title="笨鸟码书">
+            <img alt="Flapybooks LOGO" height="30" src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/logo-with-text-v2-738b41b226f2d97ed2ff2cc8d024a7bfcfaed6cfa6cd1b40d802956cc250e467.svg" />
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#top-nav" aria-controls="top-nav" aria-expanded="false" aria-label="开闭导航">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse justify-content-end" id="top-nav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a title="首页" class="nav-link" href="/">首页</a>
+              </li>
+              <li class="nav-item">
+                <a title="联系我们" class="nav-link" href="/contact">联系</a>
+              </li>
+              <li class="nav-item">
+                <a title="登录" class="nav-link" href="/login">登录</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+
+
+    <div class="main">
+      <div class="container">
+
+        <div class="tagline">
+          <h1>Ruby on Rails 教程<span class="book-edition">（原书第 6 版）</span></h1>
+          <h2>通过 Rails 6 学习 Web 开发</h2>
+        </div>
+
+        
+
+
+
+
+
+
+
+<section class="banner">
+  <div class="row">
+    <div class="col text-center">
+      <div class="cover">
+        <img srcset="https://flapybooks-public-1257356257.file.myqcloud.com/assets/covers/railstutorial6th-banner-aeb556902116a93d25fa4929b789aad4fa8a00233860f4dcfef5fa7dfed17d03.jpg 1x, https://flapybooks-public-1257356257.file.myqcloud.com/assets/covers/railstutorial6th-banner@2x-dd9e69b47290abff84aaa10891d4991c9f875a4308e2dbfd3fcabee201be0d6c.jpg 2x" alt="Ruby on Rails 教程（原书第 6 版）" title="Ruby on Rails 教程（原书第 6 版）" src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/covers/railstutorial6th-banner-aeb556902116a93d25fa4929b789aad4fa8a00233860f4dcfef5fa7dfed17d03.jpg" />
+      </div>
+
+      <div class="formats">
+        <img width="45" alt="PDF" title="PDF 格式" src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/icons/pdf-6d465c72dc12d18c82d2dc6a885fa8cd64e5d936a222cbd49e9c4134b21c6bb6.png" />
+        <img width="45" alt="ePub" title="ePub 格式" src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/icons/epub-ae0cf80a7a6eb90de2f408a8045e351782c1fe1a773be634a0e4a1eda575f9ab.png" />
+        <img width="45" alt="mobi" title="mobi 格式" src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/icons/mobi-908de47a13aeb76a749de237259a0d35ed03991afc7c07847f34866b035ff6bd.png" />
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+<section class="actions">
+  <div class="row">
+    <div class="col text-center">
+      <a class="btn btn-lg btn-flap" href="/checkout/railstutorial6th" title="购买电子书"><i class="icon-basket"></i>购买电子书</a>
+      <a class="btn btn-lg btn-outline-secondary sample-downloader" href="https://flapybooks-public-1257356257.file.myqcloud.com/samples/railstutorial6th-sample.pdf" title="样章试读" target="_blank" rel="noopener"><i class="icon-file-pdf"></i>样章试读</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="toc" id="toc">
+  <h2>目录</h2>
+  <div class="row">
+    <div class="col-12 col-md-6">
+      <ul>
+        <li>
+          <h3>第 1 章 从零到部署</h3>
+          <p>搭建 Rails 开发环境，介绍 Git 用法，体验从创建到部署的全过程。</p>
+        </li>
+        <li>
+          <h3>第 2 章 玩具应用</h3>
+          <p>开发一个简略版 Twitter 类应用，体验 Rails 脚手架的强大功能。</p>
+        </li>
+        <li>
+          <h3>第 3 章 基本静态的页面</h3>
+          <p>从静态页面入手，添加简单的动态内容，初次尝试测试驱动开发。</p>
+        </li>
+        <li>
+          <h3>第 4 章 Rails 背后的 Ruby</h3>
+          <p>为了更好地理解并开发 Rails 应用，补充一些 Ruby 基本知识。</p>
+        </li>
+        <li>
+          <h3>第 5 章 完善布局</h3>
+          <p>使用 Asset Pipeline 增强布局，然后实现用户注册的第一步。</p>
+        </li>
+        <li>
+          <h3>第 6 章 用户建模</h3>
+          <p>创建用户模型，学习模型验证，并为用户提供安全的登录密码。</p>
+        </li>
+        <li>
+          <h3>第 7 章 注册</h3>
+          <p>在 Rails 中使用表单注册用户，处理注册成功和失败两种情况。</p>
+        </li>
+      </ul>
+    </div>
+    <div class="col-12 col-md-6">
+      <ul>
+        <li>
+          <h3>第 8 章 基本登录功能</h3>
+          <p>使用 Rails 会话实现登录和退出功能，用户关闭浏览器后自动退出。</p>
+        </li>
+        <li>
+          <h3>第 9 章 高级登录功能</h3>
+          <p>实现持久会话，让浏览器记住登录状态，关闭浏览器后依然有效。</p>
+        </li>
+        <li>
+          <h3>第 10 章 更新、显示和删除用户</h3>
+          <p>更新用户的个人资料，限制用户能执行的操作，再实删除用户功能。</p>
+        </li>
+        <li>
+          <h3>第 11 章 激活账户</h3>
+          <p>使用 Rails 的邮件程序发送账户激活邮件，激活用户的账户。</p>
+        </li>
+        <li>
+          <h3>第 12 章 重设密码</h3>
+          <p>使用 Rails 的邮件程序发送重设密码邮件，重新设定用户的密码。</p>
+        </li>
+        <li>
+          <h3>第 13 章 用户的微博</h3>
+          <p>创建微博模型，将其关联到用户模型上，并实现微博相关的操作。</p>
+        </li>
+        <li>
+          <h3>第 14 章 关注用户</h3>
+          <p>实现社交网站的核心功能——关注，进一步学习 Rails 模型关联。</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="praise" id="praise">
+  <h2>对本书的赞誉</h2>
+  <div class="row">
+    <div class="col-12 col-md-6">
+      <div id="rei" class="row">
+        <div class="col-3 col-md-2 avatar">
+          <img alt="chloerei" src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/rei-85e9331df49e00f7b3328b00202b00989b85df8e208e7f1391104c8511ccdac5.jpg" />
+        </div>
+        <div class="col-9 col-md-10">
+          <p>这本书是紧跟 Rails 最新版本和最佳实践的教材。书中所举的例子不止步于玩具应用，还涉及现实世界必须了解的开发知识，推荐 Rails 和 Web 入门开发者阅读。</p>
+          <p class="text-right">——<a href="http://chloerei.com/" target="_blank" rel="noopener">chloerei</a><br><a href="http://ruby-china.org" target="_blank">Ruby China</a> 管理员</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div id="JimmyWales" class="row">
+        <div class="col-3 col-md-2 avatar">
+          <img alt="Jimmy Wales" src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/JimmyWales-5c0a0217bbbaa02660612bbc82b260134c4771ce743ea95f5a9339c329bb8a62.jpg" />
+        </div>
+        <div class="col-9 col-md-10">
+          <p>问：Jimmy Wales 最喜欢读哪本书？</p>
+          <p>答：经常变化。现在我最喜欢 Michael Hartl 写的 <strong>Rails 教程</strong>。</p>
+          <p class="text-right">——<a href="http://www.quora.com/Jimmy-Wales-1/What-is-Jimmy-Waless-favorite-book" target="_blank" rel="noopener">Jimmy Wales</a><br>维基百科创始人</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12 col-md-6">
+      <div id="JuanitoFatas" class="row comment">
+        <div class="col-3 col-md-2 avatar">
+          <img alt="JuanitoFatas" src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/JuanitoFatas-6a944469ffccbff1858404ffca850548420f1d1b4b9339762b9647f16f4f6c4c.jpg" />
+        </div>
+        <div class="col-9 col-md-10">
+          <p>目前最好的 Rails 中文書。</p>
+          <p class="text-right">——<a href="https://twitter.com/JuanitoFatas/status/537529778618658818" target="_blank" rel="noopener">@JuanitoFatas</a><br>台湾活跃的 Ruby 程序员</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div id="MikeLong" class="row comment">
+        <div class="col-3 col-md-2 avatar">
+          <img alt="Mike Long" src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/MikeLong-97058aaec50a7c9b56bc79fb6e451131a7bf6105777ef33d49149eff8629800f.jpg" />
+        </div>
+        <div class="col-9 col-md-10">
+          <p>刚读完著名的 Rails 教程。这本书可能是继 <a href="http://book.douban.com/subject/1236999/" target="_blank" rel="noopener">K&amp;R 书</a>之后最好的软件教程了。</p>
+          <p class="text-right">——<a href="https://twitter.com/meekrosoft/statuses/2095543769632768" target="_blank" rel="noopener">Mike Long</a><br>软件工程师</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="faq" id="faq">
+  <h2>常见问题解答</h2>
+  <div class="row">
+    <div class="col-12 col-md-6">
+      <ul>
+        <li>
+          <h3>这是一本什么书？</h3>
+          <p>本书是 <a href="http://rubyonrails.org/" title="Ruby on Rails 官网" target="_blank">Ruby on Rails 框架</a>的入门教程，教您开发 Web 应用。由英语原版作者授权翻译成简体中文版。</p>
+        </li>
+        <li>
+          <h3>阅读这本书需要具备哪些知识？</h3>
+          <p>您需要知道如何使用命令行，如何使用文本编辑器，了解基本的 Ruby、HTML 和 CSS 知识。</p>
+        </li>
+        <li>
+          <h3>这本书针对 Rails 的哪个版本？</h3>
+          <p>本书针对 Rails 6（目前最新的版本），而且会随着英文原书的更新而更新，为您提供最新的教程。</p>
+        </li>
+        <li>
+          <h3>付款后如何下载电子书？</h3>
+          <p>您付款后，销售平台会给您发送一封电子邮件，邮件中有电子书的下载链接，点击链接即可下载全部三种格式的电子书。</p>
+        </li>
+      </ul>
+    </div>
+    <div class="col-12 col-md-6">
+      <ul>
+        <li>
+          <h3>以后会更新吗？新版还要收费吗？</h3>
+          <p>本书采用“精益出版”策略，也就是说会不断更新完善。如果您已经购买电子书，后续小幅更新都可免费获取。</p>
+        </li>
+        <li>
+          <h3>这本书有附带的源码吗？在哪里下载？</h3>
+          <p>本书附带的源码托管在 GitHub 中，仓库名为 <a href="https://github.com/mhartl/sample_app_6th_ed" title="附带源码" target="_blank">mhartl/sample_app_6th_ed</a>。</p>
+        </li>
+        <li>
+          <h3>我可以把自己购买的电子书分享给别人吗？</h3>
+          <p>这本书没有 DRM 限制，为的是让您自由选择阅读设备。本书受版权法保护，因此不能分享给别人。</p>
+        </li>
+        <li>
+          <h3>我是在校生，有什么优惠吗？</h3>
+          <p>本书针对在校生提供 7 折优惠，请到<a title="申请教育优惠" href="/education">这个网页</a>中申请。请提前准备好学生身份证明文件。</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+<section class="actions">
+  <div class="row">
+    <div class="col text-center">
+      <a class="btn btn-lg btn-flap" href="/checkout/railstutorial6th" title="购买电子书"><i class="icon-basket"></i>购买电子书</a>
+      <a class="btn btn-lg btn-outline-secondary sample-downloader" href="https://flapybooks-public-1257356257.file.myqcloud.com/samples/railstutorial6th-sample.pdf" title="样章试读" target="_blank" rel="noopener"><i class="icon-file-pdf"></i>样章试读</a>
+    </div>
+  </div>
+</section>
+
+
+
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="container">
+        <p class="text-center">&copy;2013-2020 笨鸟码书，保留部分权利</p>
+        <p class="text-center"><a href="mailto:hi@flapybooks.com" title="打个招呼吧">hi@flapybooks.com</a></p>
+        <p class="text-center"><a href="https://twitter.com/flapybooks" title="关注我们的 Twitter" target="_blank" rel="noopener">@flapybooks</a></p>
+      </div>
+    </div>
+
+    <div class="floating-wechat-box">
+      <p id="wechat-icon" class="wechat-icon"><a href="#"><i class="icon-wechat"></i></a></p>
+      <div id="wechat-qrcode" class="wechat-qrcode">
+        <p>微信即时咨询</p>
+        <p><img alt="Wechat QRCode" width="150" height="150" src="https://flapybooks-public-1257356257.file.myqcloud.com/assets/wechat-25b641ba9ea4662662d4febb49c5b1116a9cb7b5f24c1ea1c8824f3466fb0eee.jpg" /></p>
+      </div>
+    </div>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137362360-1"></script>
+    <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-137362360-1');</script>
+
+    
+
+  </body>
+</html>
