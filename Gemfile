@@ -57,5 +57,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jquery-rails', '4.3.1'
 gem 'haml-rails'
 gem 'font-awesome-rails'
-gem 'bootstrap-sass', '3.3.5.1'
+gem 'bootstrap-sass', '3.4.1'
 gem 'rails-controller-testing'
