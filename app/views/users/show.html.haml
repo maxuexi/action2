@@ -1,0 +1,16 @@
+= provide(:title, @user.name)
+.row
+  %aside{:style => "position: relative;"}
+    %section.user_info.col-md-4
+      %h1
+        = gravatar_for @user
+        = @user.name
+    %section.stats{:style => "position: absolute; top: 110px; left: 15px;"}
+      = render 'shared/stats'
+    .col-md-8
+      = render 'follow_form' if logged_in?
+      - if @user.microposts.any?
+        %h3= "Microposts #{@user.microposts.count}"
+        %ol.microposts
+          = render @microposts
+        = will_paginate @microposts
